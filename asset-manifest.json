@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Desafio-happy-cake/static/css/main.44f8b8b5.css",
+    "main.js": "/Desafio-happy-cake/static/js/main.a51611cb.js",
+    "index.html": "/Desafio-happy-cake/index.html",
+    "main.44f8b8b5.css.map": "/Desafio-happy-cake/static/css/main.44f8b8b5.css.map",
+    "main.a51611cb.js.map": "/Desafio-happy-cake/static/js/main.a51611cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.a51611cb.js"
+  ]
+}
